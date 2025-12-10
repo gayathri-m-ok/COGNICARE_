@@ -5,15 +5,8 @@ import { getFirestore, doc, getDoc, setDoc } from 'firebase/firestore';
 import { getAuth } from 'firebase/auth';
 import { FaHome, FaSignOutAlt, FaChartBar, FaTimes, FaLightbulb } from 'react-icons/fa';
 
-// Firebase configuration
-const firebaseConfig = {
-  apiKey: "AIzaSyDE3Nph5Jprx6x2bHu3j_oxIg3InsnaVus",
-  authDomain: "cognicare-4d301.firebaseapp.com",
-  projectId: "cognicare-4d301",
-  storageBucket: "cognicare-4d301.appspot.com",
-  messagingSenderId: "1043867369648",
-  appId: "1:1043867369648:web:aaade00d5cefb1009e3b75"
-};
+
+
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
@@ -667,5 +660,6 @@ function StoryLevel() {
     </div>
   );
 }
+
 
 export default StoryLevel;
