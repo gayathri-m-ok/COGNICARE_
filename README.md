@@ -18,6 +18,9 @@ A personalized cognitive health web app designed to support individuals with Alz
 
 ## Getting Started
 This project was bootstrapped with Create React App.
-
+```
+npm install
+npm start
+```
 ## Live Demo
 Live deployment is temporarily unavailable — see source code above for full implementation details.
