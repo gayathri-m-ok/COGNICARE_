@@ -25,3 +25,13 @@ This project was bootstrapped with Create React App.
 ```bash
 npm install
 npm start
+```
+
+## 🚀 Live Demo
+
+**Try Cognicare:**  
+https://cognicare-4d301.web.app/signup
+
+## 💻 Project Repository
+
+https://github.com/gayathri-m-ok/COGNICARE_
